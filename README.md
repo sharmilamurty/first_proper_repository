@@ -1,2 +1,2 @@
 # first_proper_repository
-trying to fix the invalis email address error
+trying to fix the invalid email address error
